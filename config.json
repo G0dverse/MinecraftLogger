@@ -1,0 +1,14 @@
+{
+  "server": {
+    "host": "server.example",
+    "port": 25565
+  },
+  "bot": {
+    "username": "botusername",
+    "password": "botpassword"
+  },
+  "discord": {
+    "webhookUrl": "input webhook"
+  },
+  "minecraftVersion": "1.21"
+}
