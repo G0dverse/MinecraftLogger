@@ -12,6 +12,7 @@ Do you want a minecraft bot that logs who joins and leaves a certain server? (cr
 8. Open documents using "cd documents".
 9. Check if the code is there using "ls".
 10. Then run the index.js using "node index.js".
+ 
 
 
 # Notes:
@@ -20,5 +21,8 @@ Do you want a minecraft bot that logs who joins and leaves a certain server? (cr
 3. You need to use the same password you used to login in the config file.
 4. I set the bot to move 14 blocks when it starts to work.
 5. The bot has Automatic /login command with a five second delay.
+
+
+
 
  # Enjoy!
