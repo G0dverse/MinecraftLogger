@@ -21,4 +21,4 @@ Do you want a minecraft bot that logs who joins and leaves a certain server? (cr
 4. I set the bot to move 14 blocks when it starts to work.
 5. The bot has Automatic /login command with a five second delay.
 
-6. # Enjoy!
+ # Enjoy!
